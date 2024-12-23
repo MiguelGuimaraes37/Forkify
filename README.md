@@ -38,10 +38,7 @@
   <li>Icons are not working on the deployed site; the issue is still under investigation.</li>
 </ul>
 
-  <p>
-    This guide will walk you through the process of setting up the Forkify App on your local machine, installing dependencies, 
-    and running the development server.
-  </p>
+
   
   <h2>Prerequisites</h2>
   <p>Ensure you have the following installed on your system:</p>

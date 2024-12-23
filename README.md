@@ -35,7 +35,7 @@
 
 <h2>OBS:</h2>
 <ul>
-  <li>Icons are not working on the deployed site; the issue is still under investigation.</li>
+  <li><strong>Icons are not working on the deployed site; the issue is still under investigation.</strong></li>
 </ul>
 
 

@@ -40,7 +40,7 @@
 
 
   
-  <h2>Prerequisites</h2>
+  <h2>Prerequisites to run on your computer</h2>
   <p>Ensure you have the following installed on your system:</p>
   <ul>
     <li><a href="https://nodejs.org/" target="_blank">Node.js</a> (version 14 or higher recommended)</li>

@@ -19,6 +19,7 @@
   <li>Consuming Project API</li>
   <li>Implementation of Fractional API</li>
   <li>MVC</li>
+  <li>Node.js</li>
   <li>Parcel</li>
   <li>Babel</li>
   <li>ES6 Classes</li>

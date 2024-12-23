@@ -37,3 +37,58 @@
 <ul>
   <li>Icons are not working on the deployed site; the issue is still under investigation.</li>
 </ul>
+
+  <p>
+    This guide will walk you through the process of setting up the Forkify App on your local machine, installing dependencies, 
+    and running the development server.
+  </p>
+  
+  <h2>Prerequisites</h2>
+  <p>Ensure you have the following installed on your system:</p>
+  <ul>
+    <li><a href="https://nodejs.org/" target="_blank">Node.js</a> (version 14 or higher recommended)</li>
+    <li><a href="https://www.npmjs.com/" target="_blank">npm</a> (comes with Node.js)</li>
+  </ul>
+  
+  <h2>Installation Steps</h2>
+  <ol>
+    <li>
+      <strong>Clone the Repository</strong>  
+      <pre><code>git clone https://github.com/your-username/forkify.git</code></pre>
+    </li>
+    <li>
+      <strong>Navigate to the Project Directory</strong>  
+      <pre><code>cd forkify</code></pre>
+    </li>
+    <li>
+      <strong>Install Dependencies</strong>  
+      <pre><code>npm install</code></pre>
+    </li>
+  </ol>
+  
+  <h2>Running the Project</h2>
+  <ol>
+    <li>
+      <strong>Start the Development Server</strong>  
+      <p>To start the development server, use:</p>
+      <pre><code>npm start</code></pre>
+      <p>This will launch the application in development mode and automatically open it in your default browser.</p>
+    </li>
+    <li>
+      <strong>Build for Production</strong>  
+      <p>If you want to create a production build of the application, run:</p>
+      <pre><code>npm run build</code></pre>
+      <p>This will generate the optimized build in the <code>dist</code> directory.</p>
+    </li>
+  </ol>
+  
+  <h2>Additional Notes</h2>
+  <ul>
+    <li>The app uses Parcel for bundling and includes dependencies like <code>core-js</code> for polyfills and <code>fracty</code> for fractional API support.</li>
+    <li>The <code>start</code> command uses Parcel to serve the app locally with hot-reloading.</li>
+    <li>For detailed information about Parcel, visit <a href="https://parceljs.org/" target="_blank">Parcel Documentation</a>.</li>
+  </ul>
+  
+  <p>
+    Feel free to open an issue on the repository if you encounter any problems during setup or running the app!
+  </p>

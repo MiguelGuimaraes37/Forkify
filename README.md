@@ -89,3 +89,9 @@
   <p>
     Feel free to open an issue on the repository if you encounter any problems during setup or running the app!
   </p>
+
+  <h2>Sites OverView</h2>
+
+  ![image](https://github.com/user-attachments/assets/2295ed80-737a-4909-90a6-83677d3c57b3)
+
+  

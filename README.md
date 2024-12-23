@@ -54,7 +54,7 @@
   <ol>
     <li>
       <strong>Clone the Repository</strong>  
-      <pre><code>git clone https://github.com/your-username/forkify.git</code></pre>
+      <pre><code>git clone https://github.com/MiguelGuimaraes37/Forkify.git</code></pre>
     </li>
     <li>
       <strong>Navigate to the Project Directory</strong>  

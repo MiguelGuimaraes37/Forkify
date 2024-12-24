@@ -17,7 +17,7 @@
 
 <ul>
   <li>Consuming Project API</li>
-  <li>Implementation of Fractional API</li>
+  <li>Implementation of Fracty API</li>
   <li>MVC</li>
   <li>Node.js</li>
   <li>Parcel</li>
